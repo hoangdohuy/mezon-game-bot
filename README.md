@@ -22,22 +22,32 @@ $ yarn start
 ```
 
 ## Wordchain
+```
 *wordchain to see instruction of Wordchain
+```
 ![alt text](./public/image.png)
 
+```
 *wordchain [word] to play the game
+```
 ![alt text](./public/image-1.png)
 
 ## Gomoku
+```
 *gomoku to see instruction of Gomoku
+```
 ![alt text](./public/image-2.png)
 
+```
 *gomoku [x] [y] to play the game
+```
 ![alt text](./public/image-3.png)
 
 *gomoku status to check status of  the game
 ![alt text](./public/image-4.png)
 
+```
 *gomoku reset to reset match
+```
 
-This game is managed on each channel.
+These 2 game is managed on each channel.
