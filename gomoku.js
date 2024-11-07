@@ -134,7 +134,7 @@ class GomokuGame {
     const parts = command.split(' ');
     if (parts.length == 1) {
       return { t: `Chào mừng bạn đến với trò chơi cờ caro:
-- *gomoku [x] [y]: thực hiện nước đi của bạn (0 <= i, j <= 14), ví dụ *gomoku 5 5. Người đi trước sẽ chơi quân 'x'.
+- *gomoku [x] [y]: thực hiện nước đi của bạn (0 <= i, j <= 19), ví dụ *gomoku 5 5. Người đi trước sẽ chơi quân 'x'.
 - Sau khi người chơi thứ hai tham chiến. Bạn có 30 giây để suy nghĩ cho mỗi lượt đi.
 - *gomoku reset để reset bàn cờ.
 - *gomoku status để xem trạng thái hiện tại của bàn cờ.`}
